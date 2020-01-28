@@ -37,3 +37,38 @@ main {
 header h1 {
   text-align: center;
 }
+
+.App {
+  text-align: center;
+}
+.Header {
+  color: #443e3e;
+  text-shadow: 1px 1px 5px #fff;
+}
+
+.home-nav{
+  padding: 5px 10px;
+  margin: 5px;
+  border: solid green;
+  border-radius: 15%;
+  background-color: green;
+  text-decoration: none;
+  color: white;
+}
+
+.character-nav{
+  padding: 5px 10px;
+  margin: 5px;
+  border: solid green;
+  border-radius: 10%;
+  background-color: green;
+  text-decoration: none;
+  color: white;
+}
+
+
+.nav-links{
+  width: 100%;
+  text-align: end;
+
+}
